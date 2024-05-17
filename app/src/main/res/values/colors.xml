@@ -3,4 +3,17 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="green">#FFB3EA74</color>
+
+         // Radon Color
+    <color name="color1">#EB776E</color>
+    <color name="color2">#C2EE91</color>
+    <color name="color3">#EE6392</color>
+    <color name="color4">#8567E7</color>
+    <color name="color5">#6DADE0</color>
+    <color name="color6">#B290DD</color>
+    <color name="color7">#D6A45A</color>
+    <color name="color8">#DDCF58</color>
+    <color name="color9">#49D4C7</color>
+
+
 </resources>

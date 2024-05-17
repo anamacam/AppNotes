@@ -63,4 +63,8 @@ public class Notes implements Serializable {
     public void setPinned(boolean pinned) {
         this.pinned = pinned;
     }
+
+    public boolean getPinned() {
+        return false;
+    }
 }
