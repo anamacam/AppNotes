@@ -1,5 +1,7 @@
 package com.example.appnotes.Model;
 
+
+
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;

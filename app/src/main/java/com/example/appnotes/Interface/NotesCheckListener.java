@@ -1,5 +1,9 @@
 package com.example.appnotes.Interface;
 
+
+
+
+
 import androidx.cardview.widget.CardView;
 
 import com.example.appnotes.Model.Notes;
